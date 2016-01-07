@@ -1,0 +1,1397 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mod",
+				"mod	module .. end"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 1266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".babelrc",
+			"settings":
+			{
+				"buffer_size": 348,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 31,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/App.js",
+			"settings":
+			{
+				"buffer_size": 786,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.js",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1027,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "java",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pure",
+				"Set Syntax: PureScript"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ada",
+				"Set Syntax: Ada"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"pytoh",
+				"Set Syntax: Python"
+			],
+			[
+				"selec",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"open ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"swif",
+				"Set Syntax: Swift"
+			],
+			[
+				"selectcolor",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"select c",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"selecco",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"selectco",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"select color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"swift",
+				"Set Syntax: Swift"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"selc",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"swi",
+				"Set Syntax: Swift"
+			],
+			[
+				"rust",
+				"Set Syntax: Rust"
+			],
+			[
+				"ersource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"color ",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"openres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"select",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colorsc",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pacakge",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"selectcolo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colors",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"color s",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"viewpackage",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"selectcol",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"coll",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"edit",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"coloredit",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"jxs",
+				"Set Syntax: JSX"
+			],
+			[
+				"erl",
+				"Set Syntax: Erlang"
+			],
+			[
+				"era",
+				"Set Syntax: Erlang"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hb/Sandbox/spa/myclient",
+		"/Users/hb/Sandbox/spa/myclient/app"
+	],
+	"file_history":
+	[
+		"/Users/hb/Sandbox/spa/myclient/app/component.js",
+		"/Users/hb/Sandbox/spa/myclient/.babelrc",
+		"/Users/hb/Sandbox/spa/myclient/build/bundle.js",
+		"/Users/hb/Sandbox/spa/myapi/config/application.rb",
+		"/Users/hb/Downloads/Parse-SDK-JS-master/src/ParseQuery.js",
+		"/Users/hb/Downloads/Parse-SDK-JS-master/src/CoreManager.js",
+		"/Users/hb/Downloads/Parse-SDK-JS-master/src/RESTController.js",
+		"/Users/hb/Downloads/Parse-SDK-JS-master/src/ParsePromise.js",
+		"/private/tmp/hello.swift",
+		"/private/tmp/hello.ps",
+		"/Users/hb/Sandbox/javascript/jmuse/package.json",
+		"/Users/hb/Sandbox/javascript/jmuse/app/components.js",
+		"/Users/hb/Sandbox/javascript/jmuse/.gitignore",
+		"/Users/hb/Sandbox/javascript/jmuse/webpack.config",
+		"/Users/hb/Sandbox/javascript/jmuse/app/index.js",
+		"/Users/hb/Sandbox/javascript/ymuse/components/App.js",
+		"/Users/hb/Sandbox/javascript/ymuse/package.json",
+		"/Users/hb/Sandbox/javascript/ymuse/app/index.js",
+		"/Users/hb/Sandbox/javascript/ymuse/webpack.config",
+		"/Users/hb/Sandbox/javascript/ymuse/.babelrc",
+		"/Users/hb/Sandbox/iOS/KingfisherStuff/Podfile",
+		"/Users/hb/Downloads/nn.py",
+		"/Users/hb/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hb/Projects/formbuilder/app/models/form.rb",
+		"/Users/hb/Projects/formbuilder/app/models/text_item.rb",
+		"/Users/hb/Projects/formbuilder/app/models/scale_item.rb",
+		"/Users/hb/Sandbox/iOS/LayoutStuff/Cartfile",
+		"/Users/hb/Projects/formbuilder/app/models/item.rb",
+		"/Users/hb/Projects/formbuilder/app/models/page_break_item.rb",
+		"/Users/hb/Projects/formbuilder/Gemfile",
+		"/Users/hb/Projects/formbuilder/app/models/choice.rb",
+		"/Users/hb/Projects/formbuilder/db/migrate/20151226204555_create_choices.rb",
+		"/Users/hb/Projects/formbuilder/db/migrate/20151226203559_create_forms.rb",
+		"/Users/hb/Projects/formbuilder/db/migrate/20151226203936_create_items.rb",
+		"/Users/hb/Projects/formbuilder/app/models/user.rb",
+		"/Users/hb/Projects/formbuilder/db/migrate/20151226203703_enable_uuid_extension.rb",
+		"/Users/hb/Projects/formbuilder/config/database.yml",
+		"/Users/hb/Projects/formbuilder/db/migrate/20151226203436_create_users.rb",
+		"/Users/hb/Projects/formautomat/app/models/answer.rb",
+		"/Users/hb/Projects/formautomat/app/models/reply.rb",
+		"/Users/hb/Projects/formautomat/app/models/authentication_session.rb",
+		"/Users/hb/Projects/formautomat/app/models/checkboxes_field.rb",
+		"/Users/hb/Projects/formautomat/app/models/form_item.rb",
+		"/Users/hb/Library/Application Support/Sublime Text 3/Packages/User/JavaScript (Babel).sublime-settings",
+		"/Users/hb/Developer/fazlamesai/formautomat/config/routes.rb",
+		"/Users/hb/Downloads/Cassini/Cassini/ImageViewController.swift",
+		"/Users/hb/Sandbox/iOS/CoreDataDemo/Podfile",
+		"/Users/hb/Sandbox/iOS/ImageViewer/ImageViewer/ViewController.swift",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/application_controller.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/assets/stylesheets/bootstrap-config.scss",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/sessions/new.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/layouts/sessions.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/assets/stylesheets/application.scss",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/admin/accounts/index.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/assets/stylesheets/admin.scss",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/admin/accounts/show.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/home_controller.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/assets/stylesheets/bootstrap-config-admin.scss",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/home/index.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/shared/_navbar.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/admin/shared/_navbar.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/groups/edit.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/config/routes.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/permissions/guest_permission.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/groups/show.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/Gemfile",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/sessions_controller.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/layouts/admin.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/users/show.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/roles/show.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/users/index.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/users/new.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/users/_form.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/roles/index.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/roles/new.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/helpers/nested_models_helper.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/roles/edit.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/account/groups_controller.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/groups/index.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/groups/_group.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/assets/stylesheets/common.scss",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/admin/accounts/delete.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/users/edit.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/models/user.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/account/users_controller.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/models/account.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/layouts/account.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/permissions/member_permission.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/concerns/authorization.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/permissions/base_permission.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/concerns/current_account.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/roles/_form.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/models/group.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/groups/new.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/account/groups/_form.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/account/roles_controller.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/account/base_controller.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/models/role.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/admin/accounts/edit.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/admin/accounts/_form.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/assets/javascripts/admin.js",
+		"/Users/hb/Desktop/ratsus/ratsus/config/application.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/assets/javascripts/application.js",
+		"/Users/hb/Desktop/ratsus/ratsus/config/initializers/assets.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/views/admin/accounts/new.html.erb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/admin/accounts_controller.rb",
+		"/Users/hb/Desktop/ratsus/ratsus/app/controllers/admin/base_controller.rb",
+		"/Users/hb/Depo/formautomat/config/routes.rb",
+		"/Users/hb/Depo/formautomat/app/permissions/member_permission.rb",
+		"/Users/hb/Depo/formautomat/db/migrate/20150906120344_create_users.rb",
+		"/Users/hb/Depo/formautomat/app/models/user.rb",
+		"/Users/hb/Depo/formautomat/db/migrate/20150906123136_create_authentication_sessions.rb",
+		"/Users/hb/Depo/formautomat/db/migrate/20150906120450_create_accounts.rb",
+		"/Users/hb/Depo/formautomat/app/models/form.rb",
+		"/Users/hb/Depo/formautomat/db/migrate/20150906120938_create_forms.rb",
+		"/Users/hb/Depo/formautomat/config/database.yml",
+		"/Users/hb/Depo/formautomat/app/assets/javascripts/components/inline_edit.js",
+		"/Users/hb/Depo/formautomat/app/assets/javascripts/components/editor.js",
+		"/Users/hb/Depo/formautomat/app/assets/javascripts/components/page.js",
+		"/Users/hb/Depo/formautomat/app/assets/javascripts/components/form_settings.js",
+		"/Users/hb/Depo/formautomat/app/assets/stylesheets/application.scss",
+		"/Users/hb/Depo/formautomat/app/controllers/application_controller.rb",
+		"/Users/hb/Depo/formautomat/app/assets/stylesheets/bootstrap-config.scss",
+		"/Users/hb/Depo/formautomat/app/controllers/concerns/authorization.rb",
+		"/Users/hb/Depo/formautomat/app/controllers/concerns/current_user.rb",
+		"/Users/hb/Depo/formautomat/app/permissions/admin_permission.rb",
+		"/Users/hb/Sandbox/clojure/clojure-noob/src/clojure_noob/core.clj",
+		"/Users/hb/Depo/formautomat/app/assets/javascripts/components/grid_field.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/hb/Developer/fazlamesai/psycup/app/views/users/forms",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"CenterX",
+			"index",
+			"private ",
+			"com.fazlamesai.formbuilder.domain",
+			"psycup",
+			"2",
+			"h2",
+			"role",
+			"category",
+			"Delete",
+			"Destroy",
+			"group",
+			"roles",
+			"role",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"role",
+			"Role",
+			"group",
+			"Group",
+			"Account",
+			"account",
+			"Admin",
+			"ensure",
+			"ensure_current_account",
+			"h2",
+			"<h2",
+			"admin_account_page",
+			"fetch_by_e",
+			"Title",
+			"onChange",
+			"onHover",
+			"italic",
+			"1",
+			"WrapItemComponent",
+			"console.log",
+			"> 5 |     console.log(this.props.onClick",
+			"fields",
+			"TextField",
+			"'",
+			"form",
+			"builder",
+			"username",
+			"psycup",
+			"#",
+			".literal",
+			"menlo",
+			"Ubuntu Mono",
+			"calibre3",
+			"1.1em",
+			"1.1",
+			"Ubuntu",
+			"font-family: serif",
+			"serif",
+			"sans-serif",
+			"font-family",
+			"askdhaskdasjdkasjdkjaskdjkasjd",
+			"post",
+			"Helper",
+			"months",
+			"years",
+			"calendar",
+			"Calendar",
+			"p",
+			"endiklerin",
+			":",
+			".build",
+			"simple_fields_for",
+			"params.require",
+			"params",
+			"accepts_nested",
+			"simple_form_for",
+			"New Life Story Stage",
+			"posts/list",
+			"h2",
+			"hidden",
+			"life_stories_path",
+			"ensure_life_story",
+			"Artık yaşam öykünüzü yazmaya başlayabil",
+			"Artık yaşam öykünüzü yazmaya başlayabilirsiniz.\n\n",
+			"life_story_presenter",
+			"life_story_stage",
+			"life_story",
+			"Turbolink",
+			"Turbolink.Progr",
+			"h2",
+			"News Fe",
+			"News feed",
+			"content_for",
+			"Vazgeç",
+			"Helvetica",
+			"helvetica",
+			"page-title",
+			"navbar-brand",
+			"navbar",
+			"turbolinks",
+			"@import",
+			"page-header",
+			"posts_grouped_by",
+			"selected_year",
+			"generate_title",
+			"önce",
+			"h3",
+			"FlashMessagesHelper",
+			"create_diar",
+			"created_at",
+			"new_post",
+			"<%= hidden",
+			":type",
+			"h2",
+			"postable_type",
+			"diary",
+			"diaries_path",
+			"validate",
+			"btn-default",
+			"def create_",
+			"create_po",
+			"Günlüğün",
+			"def create",
+			"params",
+			"life_story_stage",
+			"f.input :postable_type",
+			"@profile.recommended_users",
+			"current_user",
+			"Authentication",
+			"def update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Profile",
+			"profile",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".babelrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/components/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-output":
+	{
+		"height": 108.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myclient.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"appindex",
+				"app/index.js"
+			],
+			[
+				"appr",
+				"config/application.rb"
+			],
+			[
+				"coremana",
+				"src/CoreManager.js"
+			],
+			[
+				"item",
+				"app/models/item.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"createchoice",
+				"db/migrate/20151226204555_create_choices.rb"
+			],
+			[
+				"createit",
+				"db/migrate/20151226203936_create_items.rb"
+			],
+			[
+				"createtim",
+				"db/migrate/20151226203936_create_items.rb"
+			],
+			[
+				"createitme",
+				"db/migrate/20151226203936_create_items.rb"
+			],
+			[
+				"enabl",
+				"db/migrate/20151226203703_enable_uuid_extension.rb"
+			],
+			[
+				"createform",
+				"db/migrate/20151226203559_create_forms.rb"
+			],
+			[
+				"createfor",
+				"db/migrate/20151226203559_create_forms.rb"
+			],
+			[
+				"create",
+				"db/migrate/20151226203436_create_users.rb"
+			],
+			[
+				"dabase",
+				"config/database.yml"
+			],
+			[
+				"user",
+				"config/routes.rb"
+			],
+			[
+				"sessionnew",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"accountshow",
+				"app/views/admin/accounts/show.html.erb"
+			],
+			[
+				"accountsindex",
+				"app/views/admin/accounts/index.html.erb"
+			],
+			[
+				"admin.scss",
+				"app/assets/stylesheets/admin.scss"
+			],
+			[
+				"homeindex",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"sessionhtml",
+				"app/views/layouts/sessions.html.erb"
+			],
+			[
+				"homecontroller",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"session.html",
+				"app/views/layouts/sessions.html.erb"
+			],
+			[
+				"navbar",
+				"app/views/admin/shared/_navbar.html.erb"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"guestpermis",
+				"app/permissions/guest_permission.rb"
+			],
+			[
+				"boot",
+				"app/assets/stylesheets/bootstrap-config.scss"
+			],
+			[
+				"groupsh",
+				"app/views/account/groups/show.html.erb"
+			],
+			[
+				"groupedi",
+				"app/views/account/groups/edit.html.erb"
+			],
+			[
+				"edit",
+				"app/views/account/roles/edit.html.erb"
+			],
+			[
+				"groupscontroller",
+				"app/controllers/account/groups_controller.rb"
+			],
+			[
+				"comm",
+				"app/assets/stylesheets/common.scss"
+			],
+			[
+				"roleedit",
+				"app/views/account/roles/edit.html.erb"
+			],
+			[
+				"roleshow",
+				"app/views/account/roles/show.html.erb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"account",
+				"app/models/account.rb"
+			],
+			[
+				"userss",
+				"app/views/account/users/show.html.erb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"userscontroller",
+				"app/controllers/account/users_controller.rb"
+			],
+			[
+				"usernew",
+				"app/views/account/users/new.html.erb"
+			],
+			[
+				"roless",
+				"app/views/account/roles/show.html.erb"
+			],
+			[
+				"admin.html",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"account.html",
+				"app/views/layouts/account.html.erb"
+			],
+			[
+				"hom",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"authoriza",
+				"app/controllers/concerns/authorization.rb"
+			],
+			[
+				"home",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"member",
+				"app/permissions/member_permission.rb"
+			],
+			[
+				"homecontr",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"current",
+				"app/controllers/concerns/current_account.rb"
+			],
+			[
+				"grocontrl",
+				"app/controllers/account/groups_controller.rb"
+			],
+			[
+				"new",
+				"app/views/account/groups/new.html.erb"
+			],
+			[
+				"grocontr",
+				"app/controllers/account/groups_controller.rb"
+			],
+			[
+				"group.",
+				"app/models/group.rb"
+			],
+			[
+				"groupindex",
+				"app/views/account/groups/index.html.erb"
+			],
+			[
+				"role",
+				"app/models/role.rb"
+			],
+			[
+				"accou",
+				"app/models/account.rb"
+			],
+			[
+				"groupsindex",
+				"app/views/account/groups/index.html.erb"
+			],
+			[
+				"memberperm",
+				"app/permissions/member_permission.rb"
+			],
+			[
+				"sessionscontroller",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"nvbar",
+				"app/views/admin/shared/_navbar.html.erb"
+			],
+			[
+				"asset",
+				"config/initializers/assets.rb"
+			],
+			[
+				"app",
+				"config/application.rb"
+			],
+			[
+				"adminh",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"new.html",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"accoun",
+				"app/models/account.rb"
+			],
+			[
+				"accountscontroller",
+				"app/controllers/admin/accounts_controller.rb"
+			],
+			[
+				"admin",
+				"app/assets/stylesheets/admin.scss"
+			],
+			[
+				"index.htm",
+				"app/views/admin/accounts/index.html.erb"
+			],
+			[
+				"acco",
+				"app/models/account.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"accountscontroler",
+				"app/controllers/admin/accounts_controller.rb"
+			],
+			[
+				"adminbase",
+				"app/controllers/admin/base_controller.rb"
+			],
+			[
+				"createuser",
+				"db/migrate/20150906120344_create_users.rb"
+			],
+			[
+				"permiss",
+				"app/permissions/member_permission.rb"
+			],
+			[
+				"createsession",
+				"db/migrate/20150906123136_create_authentication_sessions.rb"
+			],
+			[
+				"form.",
+				"app/models/form.rb"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"form.r",
+				"app/models/form.rb"
+			],
+			[
+				"formsettings",
+				"app/assets/javascripts/components/form_settings.js"
+			],
+			[
+				"appscss",
+				"app/assets/stylesheets/application.scss"
+			],
+			[
+				"bootst",
+				"app/assets/stylesheets/bootstrap-config.scss"
+			],
+			[
+				"curren",
+				"app/controllers/concerns/current_user.rb"
+			],
+			[
+				"authorization",
+				"app/controllers/concerns/authorization.rb"
+			],
+			[
+				"form.scs",
+				"app/assets/stylesheets/forms.scss"
+			],
+			[
+				"page",
+				"app/models/page.rb"
+			],
+			[
+				"listfiel",
+				"app/models/list_field.rb"
+			],
+			[
+				"page.r",
+				"app/models/page.rb"
+			],
+			[
+				"guest",
+				"app/permissions/guest_permission.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"project",
+				"formautomat.sublime-project"
+			],
+			[
+				"formitem",
+				"app/models/form_item.rb"
+			],
+			[
+				"field",
+				"app/models/field.rb"
+			],
+			[
+				"field.",
+				"app/models/field.rb"
+			],
+			[
+				"form_item",
+				"app/models/form_item.rb"
+			],
+			[
+				"memerper",
+				"app/permissions/member_permission.rb"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"catalog",
+				"app/assets/javascripts/item_catalog.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"editor",
+				"app/assets/javascripts/editor.js"
+			],
+			[
+				"formscontroller",
+				"app/controllers/forms_controller.rb"
+			],
+			[
+				"apphtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"formshow",
+				"app/views/forms/show.html.erb"
+			],
+			[
+				"answ",
+				"app/models/answer.rb"
+			],
+			[
+				"formscss",
+				"app/assets/stylesheets/forms.scss"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"homeinde",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"members",
+				"app/permissions/member_permission.rb"
+			],
+			[
+				"usersnew",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"createanswer",
+				"db/migrate/20150906122547_create_answers.rb"
+			],
+			[
+				"gef",
+				"Gemfile"
+			],
+			[
+				"appcontroller",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"authen",
+				"app/models/authentication_session.rb"
+			],
+			[
+				"createauth",
+				"db/migrate/20150906123136_create_authentication_sessions.rb"
+			],
+			[
+				"createansw",
+				"db/migrate/20150906122547_create_answers.rb"
+			],
+			[
+				"createformit",
+				"db/migrate/20150906121852_create_form_items.rb"
+			],
+			[
+				"reply",
+				"app/models/reply.rb"
+			],
+			[
+				"form",
+				"app/models/form.rb"
+			],
+			[
+				"createrepl",
+				"db/migrate/20150906121354_create_replies.rb"
+			],
+			[
+				"forms",
+				"db/migrate/20150906120938_create_forms.rb"
+			],
+			[
+				"creatacc",
+				"db/migrate/20150906120450_create_accounts.rb"
+			],
+			[
+				"apprb",
+				"config/application.rb"
+			],
+			[
+				"projec",
+				"formautomat.sublime-project"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"commen",
+				"app/models/comment.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

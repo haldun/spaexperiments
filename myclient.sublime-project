@@ -1,0 +1,19 @@
+{
+  "folders":
+  [
+    {
+      "file_exclude_patterns":
+      [
+        "*.sqlite3",
+        "*.log",
+        "*.gz"
+      ],
+      "folder_exclude_patterns":
+      [
+        "node_modules"
+      ],
+      "follow_symlinks": true,
+      "path": "."
+    }
+  ]
+}

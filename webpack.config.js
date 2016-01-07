@@ -8,6 +8,7 @@ const Paths = {
   app: path.join(__dirname, 'app'),
   build: path.join(__dirname, 'build'),
 };
+process.env.BABEL_ENV = Target;
 
 const common = {
   entry: Paths.app,
@@ -29,7 +30,9 @@ const common = {
   },
   plugins: [
     new HtmlwebpackPlugin({
-      title: 'My app'
+      template: 'node_modules/html-webpack-template/index.html',
+      title: 'MyClient',
+      appMountId: 'app'
     })
   ]
 };
